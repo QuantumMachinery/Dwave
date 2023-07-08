@@ -1,2 +1,2 @@
 # Dwave
-Ocean SDK for Dwave quantum hardware
+extensively documented and explained examples developed with Ocean SDK for Dwave quantum hardware
